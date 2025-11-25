@@ -1,0 +1,19 @@
+Notes on the project seutp.
+
+Python will be the main coding language for the PoC.
+
+pi@raspberrypi:~/ws-rpi-temperature-poc/rpi-temperature-poc $ git status
+On branch sensor1
+Your branch is up to date with 'origin/sensor1'.
+
+nothing to commit, working tree clean
+pi@raspberrypi:~/ws-rpi-temperature-poc/rpi-temperature-poc $ python3 -m venv venv
+pi@raspberrypi:~/ws-rpi-temperature-poc/rpi-temperature-poc $ ls
+LICENSE  README.md  venv
+
+
+pi@raspberrypi:~/ws-rpi-temperature-poc/rpi-temperature-poc $ source venv/bin/activate
+(venv) pi@raspberrypi:~/ws-rpi-temperature-poc/rpi-temperature-poc $ ls
+
+
+
